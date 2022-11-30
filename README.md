@@ -1,8 +1,8 @@
 # robosys202x
 千葉工業大学未来ロボティクス学科の授業ロボットシステム学の練習リポジトリ
-
+## プログラミングの概要
 ![test](https://github.com/syoutani/robosys202x/actions/workflows/test.yml/badge.svg)
-## プログラミングの説明
+
 標準入力から読み込んだ数字を計算して表示する。
 ## インストール方法
 ```
@@ -12,7 +12,9 @@ cd robosys202x
 ```
 
 ## 使用方法
+```
 $ seq x | ./plus
+```
 * xの部分に好きな整数を代入することで使用できる。
 
 ## 使用例
