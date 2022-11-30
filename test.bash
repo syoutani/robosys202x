@@ -1,5 +1,5 @@
 #!/bin/bash 
-# SPDX-FileCoppyright: 2022 Tanimoto Yuuki
+# SPDX-FileCoppyright: 2022 YUKI TANIMOTO
 # SPDX-License-Identifier: BSD-3-Clause
 ng () {
 	echo NG at Line $1
